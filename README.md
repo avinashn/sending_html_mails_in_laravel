@@ -16,3 +16,6 @@ You can see the demo of the project <a href="http://demos.justlaravel.com/send-b
 ## Reference Post
 <a href="http://justlaravel.com/send-beautiful-html-mail-laravel-beautymail">http://justlaravel.com/send-beautiful-html-mail-laravel-beautymail
 </a>
+
+## YouTube Video Ref:
+https://www.youtube.com/watch?v=OD4jX1bxuQg
